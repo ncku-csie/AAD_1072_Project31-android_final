@@ -32,23 +32,3 @@ Contributions:
 	Q36071237	100%
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-avd.ini.encoding: UTF-8
-
-hw.gpu.enabled: yes
