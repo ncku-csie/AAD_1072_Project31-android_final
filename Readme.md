@@ -1,4 +1,5 @@
 Libraries:
+
 	android.content.Intent;
 	android.content.SharedPreferences;
 	android.os.Bundle;
@@ -19,6 +20,7 @@ Libraries:
 
 
 Platform:
+
 	hw.device.name: Nexus 5
 	Target: google_apis_playstore [Google Play] (API level 26)
 	CPU/ABI: Google Play Intel Atom (x86)
@@ -26,6 +28,7 @@ Platform:
 	hw.ramSize: 4096
 	
 Contributions:
+
 	Q36071237	100%
 	
 	
